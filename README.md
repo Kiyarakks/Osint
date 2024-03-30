@@ -2,7 +2,7 @@
 
 installation: 
 
-git clone 
+git clone https://github.com/Kiyarakks/Osint.git
 
 cd Magma-Osint/
 
