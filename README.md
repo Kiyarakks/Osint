@@ -1,6 +1,10 @@
-##Osint
+# Osint
+The data you Searching on the Internet for person or thing you looking for!
+You can find it easily, So use it :) 
+#
 
-installation: 
+
+# installation: 
 
 git clone https://github.com/Kiyarakks/Osint.git
 
