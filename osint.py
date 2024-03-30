@@ -9,10 +9,10 @@ init(autoreset=True)
 
 # Logo
 print(Fore.YELLOW + '''
-  █▀▄▀█ █▀▀█ █▀▀▀ █▀▄▀█ █▀▀█   █▀▀█ █▀▀ ░▀░ █▀▀▄ ▀▀█▀▀
-  █░▀░█ █▄▄█ █░▀█ █░▀░█ █▄▄█   █░░█ ▀▀█ ▀█▀ █░░█ ░░█░░
-  ▀░░░▀ ▀░░▀ ▀▀▀▀ ▀░░░▀ ▀░░▀   ▀▀▀▀ ▀▀▀ ▀▀▀ ▀░░▀ ░░▀░░
-                                   Created by Kiyarakks
+     █▀▀█ █▀▀ ░▀░ █▀▀▄ ▀▀█▀▀
+     █░░█ ▀▀█ ▀█▀ █░░█ ░░█░░
+     ▀▀▀▀ ▀▀▀ ▀▀▀ ▀░░▀ ░░▀░░
+                        Created by Kiyarakks
 ''' )
 
 query   = input(Back.BLACK + Fore.YELLOW + 'Find > ' + Back.RESET + Fore.WHITE)
